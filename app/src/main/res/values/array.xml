@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "department_array">
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Engineering</item>
+        <item>Computer Science</item>
+        <item>Funeral Services</item>
+        <item>Mathematics And Statistics</item>
+        <item>Nursing</item>
+    </string-array>
+</resources>

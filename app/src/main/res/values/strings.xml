@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">p5Younouss_T</string>
+    <string-array name ="lastName">
+        <item> B </item>
+        <item> A </item>
+        <item> D </item>
+        <item> C </item>
+        <item> F </item>
+        <item> E </item>
+        <item> H </item>
+        <item> G </item>
+        <item> J </item>
+        <item> I </item>
+        <item> L </item>
+        <item> K </item>
+        <item> N </item>
+        <item> M </item>
+        <item> P </item>
+        <item> O </item>
+        <item> R </item>
+        <item> Q </item>
+        <item> T </item>
+        <item> S </item>
+    </string-array>
+    <string-array name ="firstName">
+        <item> b </item>
+        <item> a </item>
+        <item> d </item>
+        <item> c </item>
+        <item> f </item>
+        <item> e </item>
+        <item> g </item>
+        <item> h </item>
+        <item> j </item>
+        <item> i </item>
+        <item> l </item>
+        <item> k </item>
+        <item> n </item>
+        <item> m </item>
+        <item> p </item>
+        <item> o </item>
+        <item> r </item>
+        <item> q </item>
+        <item> t </item>
+        <item> s </item>
+    </string-array>
+    <string-array name ="phoneNumber">
+        <item> 2 </item>
+        <item> 1 </item>
+        <item> 4 </item>
+        <item> 3 </item>
+        <item> 6 </item>
+        <item> 5 </item>
+        <item> 8 </item>
+        <item> 7 </item>
+        <item> 10 </item>
+        <item> 9 </item>
+        <item> 12 </item>
+        <item> 11 </item>
+        <item> 14 </item>
+        <item> 13 </item>
+        <item> 16 </item>
+        <item> 15 </item>
+        <item> 18 </item>
+        <item> 17 </item>
+        <item> 20 </item>
+        <item> 19 </item>
+    </string-array>
+    <string-array name ="email">
+        <item> b@uco.edu </item>
+        <item> a@uco.edu </item>
+        <item> d@uco.edu </item>
+        <item> c@uco.edu </item>
+        <item> f@uco.edu </item>
+        <item> e@uco.edu </item>
+        <item> h@uco.edu </item>
+        <item> g@uco.edu </item>
+        <item> j@uco.edu </item>
+        <item> i@uco.edu </item>
+        <item> l@uco.edu </item>
+        <item> k@uco.edu </item>
+        <item> n@uco.edu </item>
+        <item> m@uco.edu </item>
+        <item> p@uco.edu </item>
+        <item> o@uco.edu </item>
+        <item> r@uco.edu </item>
+        <item> q@uco.edu </item>
+        <item> t@uco.edu </item>
+        <item> s@uco.edu </item>
+    </string-array>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_first_name_fragment">FirstNameFragment</string>
+    <string name="title_activity_last_name_fragment">LastNameFragment</string>
+    <string name="title_activity_phone_number">PhoneNumber</string>
+    <string name="title_activity_email_fragment">EmailFragment</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pop_up">PopUpActivity</string>
+</resources>
